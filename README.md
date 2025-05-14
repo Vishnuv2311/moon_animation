@@ -1,16 +1,27 @@
-# moon_animation
+# Moon Animation App 🌙✨
 
-A new Flutter project.
+A Flutter application featuring beautiful moon animations.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+### This is how it looks 📸
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ Features
+
+- Smooth moon animations
+- Cross-platform support (iOS and Android)
+- Beautiful UI
+
+
+## 🛠️ Tech Stack
+
+- ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+- ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
+
+
+
+## 🤝 Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
